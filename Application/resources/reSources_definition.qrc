@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>photos/arrow_down.ico</file>
+        <file>photos/icon.ico</file>
+        <file>photos/loading.gif</file>
+        <file>photos/scroll_down.png</file>
+        <file>photos/plus_icon.png</file>
+    </qresource>
+    <qresource prefix="/qss">
+        <file>qss/stylesheet.qss</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>fonts/GreatVibes-Regular.otf</file>
+        <file>fonts/josefin-slab/JosefinSlab-Light.ttf</file>
+        <file>fonts/Modern_Computer_Bright.ttf</file>
+    </qresource>
+</RCC>
